@@ -1,5 +1,8 @@
 _repo: Going-Some_6488
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Beach, Rex
@@ -14,6 +17,8 @@ description: Belasco Theatre, Broadway & 42nd St., New York City, under the sole
   and Rex Beach, entitled "Going Some," (being a chronicle of a certain lot of college
   men and girls, with a tragic strain of phonograph and cowboys), play staged by Paul
   Armstrong and J.C. Huffman. Scenery painted by Frank Platzer.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6488#Going-Some
 gutenberg_bookshelf:
 - Movie Books
 - Western
