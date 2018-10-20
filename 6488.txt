@@ -13,6 +13,7 @@ Author: Ellingwood Beach
 Posting: July 20, 2011 [EBook #6488]
 Release Date: September, 2004
 [This file was first posted on December 22, 2002]
+Last Updated: July 26, 2016
 
 Language: English
 
@@ -54,8 +55,8 @@ Four cowboys inclined their bodies over the barbed-wire fence
 which marked the dividing-line between the Centipede Ranch and
 their own, staring mournfully into a summer night such as only
 the far southwestern country knows. Big yellow stars hung thick
-and low-so low that it seemed they might almost be plucked by an
-upstretched hand-and a silent air blew across thousands of open
+and low--so low that it seemed they might almost be plucked by an
+upstretched hand--and a silent air blew across thousands of open
 miles of land lying crisp and fragrant under the velvet dark.
 
 And as the four inclined their bodies, they inclined also their
@@ -226,8 +227,8 @@ see how folks can be so dam' funny!" he gasped.
 with it, the same as I was born to shoot straight with either
 hand, and the same as the Mex was born to throw a rope. He don't
 know how he does it, and neither do I. Some folks can say funny
-things, some can sing, like Missus Melby; some can run foot-
-races, like that Centipede cook--" Carara breathed an eloquent
+things, some can sing, like Missus Melby; some can run
+foot-races, like that Centipede cook--" Carara breathed an eloquent
 Mexican oath.
 
 "Do you reckon he fixed that race with Humpy Joe?" inquired
@@ -245,8 +246,8 @@ Humpy Joe, and fixed it for him to lose so they could get that
 talkin'-machine. That's why he pulled out."
 
 "I'd hate to think it," said the foreman, gloomily; then after a
-moment, during which the only sound was that of the muffled hoof-
-beats: "Well, what we goin' to do about it?"
+moment, during which the only sound was that of the muffled
+hoof-beats: "Well, what we goin' to do about it?"
 
 "Humph! I've laid awake nights figurin' that out. I reckon we'll
 just have to git another foot-racer and beat Skinner. He ain't
@@ -562,7 +563,7 @@ mingled with shrill cries and soft Spanish imprecations; then,
 with one long-drawn wail, the pandemonium ceased as suddenly as
 it had commenced, and Carara issued forth, black with anger.
 
-"Ha!" said he, scowling 'at Mariedetta, who had retreated, her
+"Ha!" said he, scowling at Mariedetta, who had retreated, her
 hand upon her bosom. He exhaled a lungful of cigarette smoke
 through his nostrils fiercely. "You play wit' me, eh?"
 
@@ -584,7 +585,7 @@ _that!"_
 "Indeed, yes. He is a Mexican, and he has a terrible temper."
 
 Miss Blake sank back into the hammock. "How perfectly dreadful!
-And yet-it must be heavenly to love a man who would kill you."
+And yet--it must be heavenly to love a man who would kill you."
 
 Miss Chapin lost herself in meditation for an instant. "Culver is
 almost like that when he is angry. Hello, here comes our
@@ -628,8 +629,8 @@ heard about any foot-race."
 "You tell her," said the man, with another sigh, and a hopeless
 gesture that told the depth of his feelings.
 
-"Why, Stover hired a fellow a couple of months ago as a horse-
-wrangler. The man said he was hungry, and made a good impression,
+"Why, Stover hired a fellow a couple of months ago as a
+horse-wrangler. The man said he was hungry, and made a good impression,
 so we put him on."
 
 Here Stover slowly raised one booted foot and kicked his other
@@ -672,8 +673,8 @@ talking-machine."
 
 "Of New York and Paris," added Stover.
 
-"Our boys won it from this very Centipede outfit at a bronco-
-busting tournament in Cheyenne."
+"Our boys won it from this very Centipede outfit at a
+bronco-busting tournament in Cheyenne."
 
 "Wyoming." Stover made the location definite.
 
@@ -784,8 +785,8 @@ to us down at the spring-house."
 Miss Blake lost her bored expression, and sat up in the hammock.
 
 "'Mr. Jack Chapin,'" read the owner of the Flying Heart Ranch.
-"'Dear Jack: I couldn't wait for Covington, so meet with brass-
-band and fireworks this afternoon. Have flowers in bloom in the
+"'Dear Jack: I couldn't wait for Covington, so meet with
+brass-band and fireworks this afternoon. Have flowers in bloom in the
 little park beside the depot, and see that the daisies nod to
 me.--J. Wallingford Speed.'"
 
@@ -1026,8 +1027,8 @@ our losin' for a second time."
 
 And Stover went on his way to spread the tidings.
 
-It was growing dark when the rattle of wheels outside the ranch-
-house brought the occupants to the porch in time to see Nigger
+It was growing dark when the rattle of wheels outside the
+ranch-house brought the occupants to the porch in time to see Nigger
 Mike halt his buck-board and two figures prepare to descend.
 
 "It's Mr. Speed!" cried Miss Blake. Then she uttered a scream as
@@ -1083,8 +1084,8 @@ answering blush was lost in the darkness.
 "I did think when you drove up that might be Mr. Covington with
 you," Miss Chapin remarked, wistfully.
 
-"Oh no, that's my man." Speed glanced around him. "And, by-the-
-way, where is he?"
+"Oh no, that's my man." Speed glanced around him. "And,
+by-the-way, where is he?"
 
 The sound of angry voices came through the gloom, then out into
 the light came Still Bill Stover, Willie, and Carara, dragging
@@ -1160,8 +1161,9 @@ plunged on.
 hadn't been so tiny," said Helen. "I have always wanted to be
 tall, like Roberta."
 
-"I shouldn't care for that," said the young man. "You know she
-was a wonderful player?"
+"I shouldn't care for that," said the young man.
+
+"You know she was a wonderful player?"
 
 "So I've heard."
 
@@ -1414,8 +1416,8 @@ that here lay some subtle humor sufficient to convulse the Far
 Western nature beyond all reason; for Stover essayed repeatedly
 to check his laughter before gasping, finally: "Gosh 'lmighty! I
 never can get past that place. He! He! He! Whoo-hoo! That's sure
-ridic'lous, for fair." He wiped his eyes with the back of a sun-
-browned hand, and his frame was racked with barking coughs. "I
+ridic'lous, for fair." He wiped his eyes with the back of a
+sun-browned hand, and his frame was racked with barking coughs. "I
 know the whole blame thing by heart, but--I can't recite it to
 you. I bog down right there. Seems like some folks is the
 darndest fools!"
